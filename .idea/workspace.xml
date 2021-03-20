@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfa4afaa-2a70-43d1-9958-34cf7c1aec53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/zpsnysa/4a_06_08_04.html" beforeDir="false" afterPath="$PROJECT_DIR$/zpsnysa/4a_06_08_04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zpsnysa/4a_20_24_04.html" beforeDir="false" afterPath="$PROJECT_DIR$/zpsnysa/4a_20_24_04.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q1nFTdqqvf9vHGZp6hgVFYv6HV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfa4afaa-2a70-43d1-9958-34cf7c1aec53" name="Default Changelist" comment="" />
+      <created>1616255866746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616255866746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="703" y="276" width="585" height="656" key="find.popup" timestamp="1616257379281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="276" width="585" height="656" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616257379281" />
+  </component>
+</project>
