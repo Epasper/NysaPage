@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfa4afaa-2a70-43d1-9958-34cf7c1aec53" name="Default Changelist" comment="" />
+    <list default="true" id="cfa4afaa-2a70-43d1-9958-34cf7c1aec53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,10 +81,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616261717462" />
-    <state x="703" y="276" width="585" height="656" key="find.popup" timestamp="1616261637260">
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616267372239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="703" y="276" width="585" height="656" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616261637260" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616267372239" />
+    <state x="703" y="276" width="585" height="656" key="find.popup" timestamp="1616266477590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="276" width="585" height="656" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616266477590" />
     <state x="739" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1616258899916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
