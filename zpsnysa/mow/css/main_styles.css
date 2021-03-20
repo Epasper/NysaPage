@@ -1,0 +1,256 @@
+/* CSS Document */
+body
+{
+ margin:0px;
+ padding:0px;
+ text-align:center;
+ background-image:url(../imgs/main_back.jpg);
+ background-repeat:repeat-x;
+ background-attachment:scroll;
+ background-color:rgb(181,189,200);
+}
+
+div#main
+{
+ /*background-color:#0099CC;*/
+ background-image:url(../imgs/background_rest.jpg);
+ background-position:0px 255px;
+ background-repeat:no-repeat;
+ 
+ width:965px;
+ height:auto;
+ margin:auto;
+ position:relative;
+ border:1px solid #DDDDDD; /*99CCFF seems to be good */
+}
+
+div#menu_baner
+{
+height:150px;
+width:965px;
+background-image:url(../imgs/menu_baner_background.jpg);
+background-repeat:no-repeat;
+}
+
+div#company_place
+{
+height:210px;
+width:965px;
+background-image:url(../imgs/company_background.jpg);
+background-repeat:no-repeat;
+}
+
+div#baner_space
+{
+height:108px;
+}
+
+div#company_name
+{
+font-family:Calibri;
+font-weight:bold;
+font-size:22px;
+color:#000000;
+text-align:left;
+float:left;
+width:460px;
+margin-top:20px;
+margin-left:20px;
+border-right:2px double #666666;
+}
+
+div#main_info
+{
+font-family:Calibri;
+font-size:16px;
+color:#000000;
+font-weight:normal;
+ width:471px;
+/*background-color:#6699CC;*/
+ float:left;
+ margin-top:6px;
+ margin-left:6px;
+ margin-right:2px;
+ margin-bottom:6px;
+/*
+filter:alpha(opacity=50);
+opacity:0.5;
+-moz-opacity:0.5;
+*/
+ text-align:left;
+}
+
+div#content
+{
+/*background-image:url(../imgs/background_rest.jpg);*/
+background-repeat:no-repeat;
+/*height:700px;*/
+/*min-height:242px;*/
+height:auto;
+width:965px;
+
+}
+
+div#boxes
+{
+height:415px;
+background-repeat:no-repeat;
+}
+
+
+div#tresc
+{
+font-family:calibri;
+font-size:14px;
+min-height:415px;
+height:auto;
+background-repeat:no-repeat;
+text-align:left;
+margin-left:10px;
+margin-right:10px;
+}
+
+div#box_nowosci
+{
+background-image:url(../imgs/box1.png);
+background-repeat:no-repeat;
+width:240px;
+height:173px;
+/*
+filter:alpha(opacity=80);
+opacity:0.8;
+-moz-opacity:0.8;
+*/
+z-index:-999;
+float:left;
+}
+
+div#aktualnosci_wide
+{
+ width:460px;
+ height:116px;
+ background-image:url(../imgs/aktualnosci_wide.png);
+ background-repeat:no-repeat;
+}
+
+.box
+{
+font-family:Calibri;
+font-size:14px;
+color:#FFFFFF;
+font-weight:bold;
+background-image:url(../imgs/box1.png);
+background-repeat:no-repeat;
+width:240px;
+height:173px;
+/*
+filter:alpha(opacity=80);
+opacity:0.8;
+-moz-opacity:0.8;
+*/
+z-index:-999;
+float:left;
+text-align:left;
+}
+
+
+.box_title_aktualnosci
+{
+font-family:calibri;
+font-size:14px;
+font-weight:normal;
+color:#FFFFFF;
+position:relative;
+top:22px;
+ margin-left:60px;
+}
+
+.box_title
+{
+ margin-top:53px;
+ margin-left:90px;
+}
+
+
+
+.exception_letter
+{
+color:#CC0000;
+font-size:24px;
+}
+
+div#footer
+{
+ width:965px;
+ height:60px;
+ /*background-color:#6699CC;*/
+ background-image:url(../imgs/footer.png);
+ background-repeat:no-repeat;
+}
+
+a img
+{
+border-width:0px;
+}
+
+a.main_link
+{
+  color:#000000;
+  text-decoration:none;
+  font-weight:bold;
+
+}
+
+a.main_link:hover
+{
+  color:#000000;
+  text-decoration:underline;
+  font-weight:bold;
+}
+
+a.link_btn
+{
+  color:#000000;
+  text-decoration:none;
+  font-size:13px;
+  font-weight:normal;
+
+}
+
+a.link_btn:hover
+{
+  color:#000000;
+  text-decoration:underline;
+  font-size:13px;
+  font-weight:normal;
+}
+
+a.mail_link
+{
+  color:#FFFFFF;
+  font-family:Calibri;
+  font-size:12px;
+  text-decoration:none;
+
+}
+
+a.mail_link:hover
+{
+  color:#FFFFFF;
+  font-family:Calibri;
+  font-size:12px;
+  text-decoration:underline;
+}
+
+
+.kadry_status
+{
+width:240px;
+float:left;
+}
+
+.kadry_imie_nazwisko
+{
+width:350px;
+float:left;
+}
