@@ -3106,19 +3106,19 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: url('../images/portfolio-1---wide.svg');
+  background-image: url('../images/narysowane_serce.jpg');
   background-position: 50% 50%;
   background-size: cover;
   color: #fff;
 }
 
 .project-overview-header.cc-project-2-header {
-  background-image: url('../images/portfolio-2---wide.svg');
+  background-image: url('../images/narysowane_serce.jpg');
   background-position: 50% 50%;
 }
 
 .project-overview-header.cc-project-3-header {
-  background-image: url('../images/portfolio-3---wide.svg');
+  background-image: url('../images/narysowane_serce.jpg');
   background-size: cover;
 }
 
