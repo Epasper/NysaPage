@@ -3,6 +3,18 @@ function changeStyle(linkPrefix, background, fontWeight, fontColor, cssName) {
     document.body.style = "color: " + fontColor;
     document.body.style.background = background;
     let navItems = document.getElementsByClassName('w-nav-link');
+    let recruitmentDiv = document.getElementsByClassName('call-to-action');
+    if (recruitmentDiv !== undefined) {
+        for (let i = 0; i < recruitmentDiv.length; i++) {
+            recruitmentDiv[i].style.backgroundColor = background;
+        }
+    }
+    let introHeader = document.getElementsByClassName('intro-header');
+    if (introHeader !== undefined) {
+        for (let i = 0; i < introHeader.length; i++) {
+            introHeader[i].style.backgroundColor = background;
+        }
+    }
     for (let i = 0; i < navItems.length; i++) {
         let element = navItems[i];
         background === 'black' ? element.style.setProperty('color', 'white') : element.style.setProperty('color', '#222222');
