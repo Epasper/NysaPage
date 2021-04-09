@@ -4,6 +4,8 @@ function changeStyle(linkPrefix, background, fontWeight, fontColor, cssName) {
     document.body.style.background = background;
     let navItems = document.getElementsByClassName('w-nav-link');
     let recruitmentDiv = document.getElementsByClassName('call-to-action');
+    let paragraphLight = document.getElementsByClassName('paragraph-light');
+
     if (recruitmentDiv !== undefined) {
         for (let i = 0; i < recruitmentDiv.length; i++) {
             recruitmentDiv[i].style.backgroundColor = background;

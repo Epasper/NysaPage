@@ -2476,7 +2476,7 @@ figcaption {
 
 .paragraph-light {
   display: inline;
-  opacity: 0.6;
+  opacity: 1.0;
   text-align: center;
 }
 
