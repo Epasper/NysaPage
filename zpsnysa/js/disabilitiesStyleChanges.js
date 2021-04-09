@@ -11,6 +11,12 @@ function changeStyle(linkPrefix, background, fontWeight, fontColor, cssName) {
             recruitmentDiv[i].style.backgroundColor = background;
         }
     }
+    let paragraphDiv = document.getElementsByClassName('paragraph-light');
+    if (paragraphDiv !== undefined) {
+        for (let i = 0; i < paragraphDiv.length; i++) {
+            paragraphDiv[i].style.opacity = background === 'black' || background === '#ff0' ? 1 : 0.6;
+        }
+    }
     let introHeader = document.getElementsByClassName('intro-header');
     if (introHeader !== undefined) {
         for (let i = 0; i < introHeader.length; i++) {
